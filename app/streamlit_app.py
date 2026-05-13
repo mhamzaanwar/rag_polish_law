@@ -51,8 +51,8 @@ with st.sidebar:
             st.session_state.pending_question = ex
 
     st.divider()
-    st.caption("Built by [Your Name] — backend dev specializing in production AI agents and RAG systems.")
-    st.caption("[Hire me on Upwork](https://upwork.com/freelancers/yourprofile)")
+    st.caption("Built by https://www.fiverr.com/mhamzaanwar1 — backend dev specializing in production AI agents and RAG systems.")
+    st.caption("[Hire me on Upwork](https://www.upwork.com/freelancers/~01cc18ebb04e3df6e0)")
 
 # Chat history in session state
 if "messages" not in st.session_state:
