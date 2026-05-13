@@ -2,8 +2,7 @@
 
 > A production-grade RAG (Retrieval-Augmented Generation) assistant that answers questions about Polish business law, tax setup, and B2B contracting — with source citations on every answer.
 
-**Live demo:** [your-app-name.streamlit.app] *(deploy this and add URL)*
-**Loom walkthrough:** [your-loom-link] *(record this and add URL)*
+**Live demo:** https://polishlawguide.streamlit.app/
 
 ---
 
@@ -129,8 +128,8 @@ Total for a portfolio demo: **under $1/month**.
 
 ## About the developer
 
-Built by [Your Name] — backend developer based in Poland, specializing in production AI agents and RAG systems.
+Built by https://www.fiverr.com/mhamzaanwar1 — backend developer based in Poland, specializing in production AI agents and RAG systems.
 
-- 📧 Available for hire on Upwork: [link]
-- 🐙 GitHub: [link]
-- 💼 LinkedIn: [link]
+- 📧 Available for hire on Upwork: https://www.upwork.com/freelancers/~01cc18ebb04e3df6e0
+- 🐙 GitHub: https://github.com/mhamzaanwar
+- 💼 LinkedIn: https://www.linkedin.com/in/hamzaraja983/
