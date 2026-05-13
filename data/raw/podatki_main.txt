@@ -1,0 +1,365 @@
+SOURCE: https://www.podatki.gov.pl
+TITLE: Official Polish National Tax Administration portal providing comprehensive information on taxes, obligations, and compliance
+
+﻿
+
+
+
+
+
+Serwis o podatkach - Strona Główna 
+
+
+ Podatki osobiste
+ 
+
+
+ Podatki dla przedsiębiorców
+ 
+
+
+ Cło
+ 
+
+
+ Poradniki i informatory
+ 
+
+
+ Aktualności
+ 
+
+
+ Narzędzia
+ 
+
+
+ Załatw sprawę online
+ 
+
+ Od dochodu
+
+Podstawowy podatek od dochodów osobistych.
+
+PIT
+
+Informacje podstawowe
+
+Ulgi i odliczenia
+
+Stawki i limity
+
+Formularze
+
+Wybierz swoją sytuację
+
+Mam dochody z pracy
+
+Mam dochody z pracy wykonywanej za granicą
+
+Mam dochody z umowy zlecenia lub o dzieło
+
+Mam dochody z praw autorskich
+
+Mam dochody z najmu
+
+Mam dochody z działalności nierejestrowanej
+
+Mam dochody niani
+
+Mam dochody z emerytury
+
+ Od majątku
+
+Podatki, które opłacasz, kiedy zmienia się Twoja sytuacja majatkowa.
+
+Spadki i darowizny (
+SD
+)
+
+Czynności cywilnoprawne (
+PCC
+)
+
+ Od zakupów
+
+Podatki związane z transakcjami kupna różnych produktów z kraju i zagranicy.
+
+Akcyza
+
+VAT
+
+ Pozostałe
+
+Wybrane podatki lokalne oraz inne formy opodatkowania.
+
+Podatek od gier
+
+Podatki lokalne
+
+Interpretacje podatkowe
+
+ Podstawowe podatki dla przedsiębiorców
+
+
+ PIT
+ 
+
+
+ CIT
+ 
+
+
+ VAT
+ 
+
+JPK
+
+
+ Akcyza
+ 
+
+ Pozostałe podatki
+
+od czynności cywilnoprawnych (
+PCC
+)
+
+od spadków i darowizn (
+SD
+)
+
+tonażowy
+
+od gier
+
+od sprzedaży detalicznej
+
+od wydobycia niektórych kopalin
+
+od niektórych instytucji finansowych
+
+od sprzedaży alkoholu w opakowaniach powyżej 300 ml
+
+Opłata cukrowa
+
+Klauzula ogólna przeciwko unikaniu opodatkowania
+
+ 
+
+Podatki lokalne
+
+Pełnomocnictwa 
+
+Opłata skarbowa
+
+Rejestr działalności  na rzecz spółek  lub  trustów
+
+Rejestr działalności w zakresie walut wirtualnych
+
+Ceny transferowe 
+
+Program współdziałania 
+
+Działalność gospodarcza
+ 
+
+Interpretacje podatkowe
+
+Podatkowa współpraca międzynarodowa
+
+Porozumienie inwestycyjne
+
+Wiążące informacje podatkowe i celne
+
+ 
+
+eNotariusz
+
+eSprawozdania
+
+Zawiadomienie 
+ZAW-NR
+
+WHT
+ - Withholding Tax (podatek u źródła)
+
+MDR
+ - Raportowanie schematów podatkowych
+
+ICAP
+ - 
+International Compliance Assurance Programme
+
+ETACA
+ - European Trust And Cooperation Approac
+
+SME
+ - procedura szczególna
+
+GLOBE
+ - opodatkowanie wyrównawcze
+
+CRBR
+ - Centralny Rejestr Beneficjentów Rzeczywistych
+
+Procedury 
+TAX FREE, VAT-REFUND, VAP, OSS i IOSS
+
+ Podstawowe informacje o cle
+
+Informacje dla osób fizycznych
+
+Informacje dla przedsiębiorców
+
+Ograniczenia przywozu i wywozu towarów
+
+Zabezpieczenie i pobór należności celnych oraz zwrot i umorzenia należności celnych
+
+Zintegrowana Taryfa Celna 
+
+ Pozostałe
+
+Agenci celni
+
+Gwaranci celni
+
+Kursy walut w przepisach
+
+Podstawa prawna
+
+Zwolnienia
+
+ 
+
+ 
+
+ Ogólne
+
+CBAM
+
+Zgłoszenie celne i INTRASTAT
+
+Brexit a cło
+
+Reforma celna
+
+ Narzędzia
+
+Kalkulator taryfowy
+
+Przeglądarka taryfowa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Kalkulatory
+
+Kalkulator odsetek za zwłokę od zaległości podatkowych oraz opłaty prolongacyjnej
+
+Kalkulator odsetek ustawowych
+
+Kalkulator walut
+
+ Wyszukiwarki
+
+System Informacji Celno-Skarbowej EUREKA 
+
+Wyszukiwarka urzędów skarbowych i jednostek Krajowej Administracji Skarbowej
+
+Wykaz podmiotów zarejestrowanych jako podatnicy VAT, niezarejestrowanych oraz wykreślonych i przywróconych do rejestru VAT
+
+Plik płaski
+
+Wyszukiwarka OPP 1,5%
+
+Kaucja gwarancyjna
+
+Wyszukiwarka uprawnień serwisantów 
+
+Potwierdzanie numeru VAT UE (VIES)
+
+ Inne narzędzia 
+
+Aplikacja mobilna eUS
+
+Aplikacja e-Paragony
+
+Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)
+
+Czas oczekiwania na granicy
+
+Ważne terminy 
+
+Rejestr zastawów skarbowych 
+
+Głos podatnika
+
+Kreator wniosku ORD-IN
+
+Pomagamy zrozumieć i rozliczyć podatki. Oficjalne i bezpieczne źródło wiedzy oraz usług.
+
+Szukaj
+
+poprzedni
+
+eUrząd Skarbowy 2.0
+
+Jedna aplikacja, mniej klików, więcej czasu na to, co ważne.
+Nowy wygląd, lepsza nawigacja i szybszy dostęp do danych - zawsze, kiedy potrzebujesz.
+
+Poznaj aplikację eUS 2.0
+
+Najważniejsze informacje o KSeF
+
+Krajowy System e-Faktur (KSeF) to platforma do wystawiania, przesyłania, otrzymywania i przechowywania faktur w formie elektronicznej. Ułatwia obieg dokumentów, zwiększa bezpieczeństwo danych i upraszcza rozliczenia podatkowe.
+
+Przejdź do KSeF
+
+następny
+
+eUrząd Skarbowy 2.0
+
+Jedna aplikacja, mniej klików, więcej czasu na to, co ważne.
+Nowy wygląd, lepsza nawigacja i szybszy dostęp do danych - zawsze, kiedy potrzebujesz.
+
+Poznaj aplikację eUS 2.0
+
+Najważniejsze informacje o KSeF
+
+Krajowy System e-Faktur (KSeF) to platforma do wystawiania, przesyłania, otrzymywania i przechowywania faktur w formie elektronicznej. Ułatwia obieg dokumentów, zwiększa bezpieczeństwo danych i upraszcza rozliczenia podatkowe.
+
+Przejdź do KSeF
+
+Jak możemy Ci pomóc?
+
+eUrząd Skarbowy
+
+Dowiedz się więcej o KSeF
+
+Zaświadczenia podatkowe
+
+Rozlicz PIT w usłudze Twój e-PIT
+
+Sprawdź status zwrotu podatku
+
+Uzyskaj interpretacje podatkowe
+
+Jak przekazać 1,5% na OPP
+
+Sprawdź numer mikrorachunku podatkowego
+
+Umów wizytę w Urzędzie Skarbowym
+
+Ustawienia prywatności

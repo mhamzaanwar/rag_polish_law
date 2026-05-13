@@ -1,0 +1,351 @@
+SOURCE: https://www.biznes.gov.pl/en/portal/004160
+TITLE: Official explanation of VAT registration rules, thresholds (including 200,000 PLN exemption), and when VAT registration is required
+
+Obligations of a VAT payer – registration and record-keeping | Biznes.gov.pl - An information and service website for entrepreneurs
+
+ gov.pl
+ 
+
+ Information and services website for entrepreneurs.
+ 
+
+ Business in Poland
+ 
+
+Who must register for VAT
+
+As an entrepreneur, 
+you are, as a rule, obliged to register for VAT
+. You do not need to register if:
+
+your sales do not exceed the threshold of PLN 240,000 per year – you are entitled to 
+complete VAT exemption
+
+you sell only goods and services exempt from VAT – you are entitled to 
+VAT exemption on account of VAT-exempt goods and services.
+
+The 
+VAT-R
+ form is used for registration. It must be submitted 
+no later than the day before the date on which the sale of goods or supply of services subject to VAT commences.
+
+Read 
+how to submit a VAT-R form
+.
+
+File the registration form with the head of the tax office competent for:
+
+the address of the registered office – for legal persons and organisational entities without legal personality
+
+the place of residence – for natural persons
+
+the permanent place of business – for non-established entities in the territory of a country but having a permanent place of business in that territory.
+
+Who must register for EU VAT
+
+If you know that you will be trading with EU businesses, make an EU VAT registration right away.
+
+Businesses wishing to make intra-Community acquisitions and supplies of goods, imports of services and supplies of services for which the taxpayer is a customer having its registered office in another Member State are subject to registration.
+
+Please note!
+ The obligation to register as a EU VAT payer does not apply to the supply of services to natural persons 
+not engaged in business activity
+ from other EU countries.
+
+If you are registered for EU VAT, you will avoid paying 
+foreign VAT
+ charged by foreign business partners or 
+charging Polish tax to these business partners
+.
+
+Even if you are not an active VAT payer, you are obliged to register for EU VAT if the value of your intra-Community acquisitions exceeds the amount of 
+PLN 50,000 in a given year.
+
+You register on the VAT-R form – the same form on which you register for VAT. If you already have the status of an active VAT payer for domestic transactions, you only need to 
+update your VAT-R form
+ accordingly. You will receive confirmation of your EU VAT number on the VAT-5UE form.
+
+From this point onwards, for the purposes of clearing intra-Community transactions, you are required to use a 
+tax identification number preceded by the code “PL”.
+
+Important!
+ Non-established entities without a permanent place of business in Poland file the VAT registration form with the Head of the Second Tax Office Warszawa-Śródmieście.
+
+Read 
+how to submit a EU VAT form
+.
+
+When the tax office can refuse registration
+
+Simply submitting a VAT-R form does not mean that you will automatically be registered for VAT.
+
+The head of the tax office, before registering you as an active or exempt VAT payer, 
+verifies the data provided in your registration form
+. The address of the registered office is usually checked; whether it exists, whether it corresponds to the type and scale of the business. The tax office can also check whether you have the right conditions for the type of business, such as vehicles for transporting goods or storage space. Once you have submitted your VAT-R form, you should also be available by telephone should the office wish to contact you.
+
+The head of the tax office will not register you for VAT, and does not have to notify you of this, if 
+one
+ of the prerequisites occurs:
+
+the data provided in the registration form are not accurate
+
+the entity applying for registration does not exist
+
+despite documented attempts, the entity or its representative cannot be contacted
+
+the entity or its representative fails to appear at the request of the head of the tax office
+
+it appears from the available information that the taxpayer may be acting with the intention of committing tax fraud
+
+the court issued a ban on the entity engaging in business activity.
+
+Penalty for failure to register for VAT
+
+What if you are obliged to register for VAT but fail to do so? Two cases must be distinguished.
+
+If you have not registered for VAT, but 
+are acting like an active VAT payer
+, filing tax returns and paying VAT, the tax authorities usually allow you to submit a retroactive VAT-R registration form. However, it happens that the tax office, due to your failure to register for VAT, questions your right to deduct input VAT (paid on purchase invoices).
+
+If you have not registered for VAT despite an obligation to do so (for example, after you have exceeded the PLN 240,000 threshold), you do not file your tax returns and you do not pay VAT, the tax authority may impose a fine or penalty on you. Failure to register for VAT combined with failure to file returns and failure to pay tax is treated as failure to disclose the taxable base. This is a criminal tax evasion offence punishable by a fine or even a non-custodial sentence.
+
+Change in VAT payer details
+
+You must notify the tax office of a change in the 
+details provided in the
+ VAT-R 
+registration form
+. You must do this 
+within 7 days
+ of the change in the details.
+
+Report the change in the details on the 
+VAT-R form
+. Indicate that the form is being submitted to update your details. In the mode of updating the VAT-R form, you will report, among other things, the switch to VAT accounting on a quarterly basis or the commencement of intra-Community transactions.
+
+Read 
+how to submit an update on the VAT-R form
+.
+
+On the VAT-R form, 
+do not report
+ a change in the details covered by the obligation to update under t
+he Act on the principles of registration and identification of taxpayers and tax remitters.
+
+These are changes concerning:
+
+the surname and business name under which the business is run
+
+tax identification numbers obtained in other countries
+
+information on the official register in which the business is registered
+
+information on the date on which the business was suspended or resumed
+
+contact details, including correspondence and e-mail addresses
+
+addresses of business locations and storage of accounting records
+
+bank accounts used for running a business
+
+the organisational and legal form in which the business is carried on as well as its affiliations, including details of the parent company (only applicable to internal units), internal units (only applicable to the parent company) and shareholders/partners.
+
+You will report these changes on the 
+NIP-2 form
+.
+
+Remember!
+ A change of address must be reported 
+both on the VAT-R form and on the NIP-2 form
+ if this change results in a 
+change in the competence of the head of the tax office
+.
+
+In such a case, file a VAT-R form with the new tax office, hence the one competent for your new business address. When updating the VAT-R form, enter the details of your previous tax office, hence the one competent for your previous business address.
+
+When the tax office de-registers from VAT
+
+The legislation also specifies cases in which the head of the tax office de-registers the taxpayer from VAT without having to notify the taxpayer. Only 
+one
+ of the following prerequisites must be met:
+
+the taxpayer does not exist
+
+the tax office is unable to contact the taxpayer or their representative despite documented attempts
+
+the data provided in the registration form are found to be inaccurate
+
+the taxpayer or their representative fails to appear at the request of the tax administration
+
+information in the possession of the tax office indicates that the taxpayer is acting with the intention of committing a tax fraud
+
+the court issued a ban on the taxpayer engaging in business activity
+
+the taxpayer has suspended their business for at least 6 consecutive months
+
+the taxpayer has not filed a tax return for 3 consecutive months or for a quarter
+
+the taxpayer has filed for 6 consecutive months or 2 consecutive quarters so called “nil returns” in which the taxpayer did not report sales or acquisitions
+
+the taxpayer issued so-called “blank invoices” documenting transactions that had not taken place
+
+the taxpayer knew or had reasonable grounds to believe that his business partners were involved in tax evasion for financial gain.
+
+How to keep VAT records
+
+If you are registered as an active VAT payer, 
+you must keep VAT records electronically:
+
+The sales records
+ enable the correct calculation of the amount of output tax due in a given accounting period.
+
+The purchase records
+ make it possible to determine the amount of input tax deductible in a given accounting period.
+
+The data from the records make it possible to prepare a correct tax return, summary information and the Standard Audit File for Tax JPK_VAT. The model of the records is not specified in the regulations. It must include at least:
+
+the subject of taxation
+
+the taxable base
+
+the amount of output tax
+
+the amount of output tax adjustments
+
+the amount of input tax reducing the amount of output tax due
+
+the amount of input tax adjustments
+
+tax amounts to be paid to or refunded from the tax office to the taxpayer’s individual micro-account
+
+other data to identify individual transactions, including the tax identification number NIP or the number used to identify the taxpayer.
+
+The entries in the VAT register are based on:
+
+VAT invoices, VAT RR invoices, VAT-margin invoices, advance payment invoices
+
+periodical reports generated from cash registers
+
+some receipts if they contain the required data
+
+other documents, e.g. customs documents.
+
+Expenses for the following purchases 
+are not included
+ in the VAT register:
+
+exempt from taxation (for example, purchase of stamps)
+
+non-taxable (e.g. stamp duty)
+
+on which input tax is not deductible (for example, the purchase of accommodation or dining services).
+
+These expenses do not affect either the tax liability or the correctness of the VAT settlement. You include them in the tax revenue and expense ledger (PKPiR), in accordance with the PIT Act (or in a revenue register). The entries in the revenue and expense ledger PKPiR and VAT register may differ.
+
+Who can keep simplified records
+
+If you are a VAT-exempt taxpayer:
+
+you do not keep VAT records if you sell VAT-exempt goods and services
+ (you only perform activities that are exempt from VAT)
+
+you keep simplified records in the case of complete VAT exemption
+ (due to a threshold of up to PLN 240,000).
+
+You must keep simplified records for each day, but no later than before you make a sale on the following day. The purpose of the simplified records is to determine whether you have exceeded the PLN 240,000 threshold for exemption.
+
+The simplified records do not have a prescribed template. They may include information such as:
+
+ordinal number
+
+the date of sale
+
+turnover
+
+cumulative turnover.
+
+You can also add other information, such as the sales receipt number or information about the type of transaction.
+
+If you are entitled to 
+VAT exemption on account of selling VAT-exempt goods and services
+, you do not have to keep VAT records at all. Since you only perform VAT-exempt activities, you are not required to register or file VAT returns.
+
+×
+
+ 
+
+Ask question (form)
+
+ A confirmation of the inquiry submission, information about the change of status and a response
+ will be sent to the e-mail address indicated in the form. The maximum response time is
+ 7 calendar days, 14 calendar days for inquiry requiring consultation with other offices.
+ 
+More
+.
+ 
+
+ The official inquiry form is part of the Polish Single Point of Contact
+ 
+www.biznes.gov.pl
+. The detailed scope of tasks carried
+ out by the Single Point of Contact is regulated by Section III of
+ the Law on Central Registration and Information on Economic Activity and the Entrepreneur
+ Information Point. For more information, see 
+the Legal Notes
+ page.
+ 
+
+ The Contact Point does not provide advice on individual cases.
+ 
+
+Applicant
+
+Select
+
+Entrepreneur
+
+Citizen
+
+Official
+
+E-mail
+
+Topic
+
+Select
+
+economic activity in Poland
+
+data warehouse CEIDG
+
+economic activity in EU
+
+registering economic activity in CEIDG
+
+dispute entrepreneurs/consumers
+
+issues concerning emploee/employer
+
+electronic delivery
+
+failure/error of www.biznes.gov.pl
+
+technical support CEIDG App
+
+Integration for banks
+
+Content
+
+Minimum of 10 characters
+
+Add attachment (optional)
+
+Maximum single file size 5MB, accepted formats: .jpg,.jpeg,.png,.bmp,.gif,.pdf,.doc,.docx,.odt,.xls,.xlsx,.xml
+
+Indicate the file
+
+add another attachment
+
+Send
+
+Wybierz

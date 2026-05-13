@@ -1,0 +1,576 @@
+SOURCE: https://biznes.gov.pl/en/portal/001823
+TITLE: Official Polish government guide to registering and running a sole proprietorship (JDG), including CEIDG registration, obligations, and requirements
+
+What you need to know before registering your business | Biznes.gov.pl - An information and service website for entrepreneurs
+
+ gov.pl
+ 
+
+ Information and services website for entrepreneurs.
+ 
+
+ Business in Poland
+ 
+
+Check if you can run a business in Poland
+
+You can run a one-person business on your own 
+if you are an adult
+, because this is when you are fully accountable for your actions and have full decision-making capacity.
+
+Minors under 18 who want to run their own business will have to engage their legal representatives in many cases. Most often it will be their parents.
+
+To start a one-person business, 
+you do not need to be a Polish citizen
+.
+
+Citizens:
+
+of member states of the 
+European Union
+ and member states of the 
+European Economic Area
+ may start and run a business in Poland on the same basis as Polish citizens.
+
+of countries 
+from outside the European Union
+ or 
+from outside the European Economic Area
+ may start and run a business in the territory of Poland on the same basis as Polish citizens if they have 
+a residence title
+ that entitles them to do so, such as a permanent residence permit, a long-term residence permit of the European Union or a temporary residence permit issued in connection with university studies.
+
+Read 
+who can run a business in Poland
+.
+
+Check if you need to register your business
+
+Business activity is 
+an organized profit-making activity carried out on a person’s own behalf and on a continuous basis
+.
+
+If you want to run a business, you must register with the 
+Central Registration and Information on Business (CEIDG)
+, the register of one-person businesses in Poland. Entrepreneurs who want to become partners in a Civil Code partnership are also registered with this register.
+
+However, if you expect the 
+income from your business to be low
+, you can run a small business without any additional formalities; you do not need to register as an entrepreneur.
+
+A non-registered activity is 
+a small-scale gainful activity
+ pursued by natural persons, which does not require a business to be registered.
+
+You can run a non-registered business if:
+
+income from your business in any month does not exceed 
+75% of
+ 
+the amount of the minimum salary
+ applicable for the year
+
+you are a natural person
+
+you do not do business as a Civil Code partnership
+
+you are not engaged in a regulated activity, i.e. one that requires permits or licenses
+
+you have not conducted any business activities (e.g. as one-person business registered in CEIDG) in the last 60 months.
+
+Please note!
+ The following 
+does not need to be registered
+ with the business register:
+
+agritourism activity of farmers
+
+wine production by farmers
+
+agricultural retail trade.
+
+The monthly income limit for non-registered activities in 2025 is PLN 
+3,499.50.
+
+Read 
+more about non-registered activities
+.
+
+Choose the name for your business
+
+When registering your business with CEIDG, you must indicate the name under which you are going to operate. The name must include at least your 
+first and last name
+ in the nominative case, for example: Jan Kowalski.
+
+The order is important: when entering a name, 
+put your first name first and then your last name
+.
+
+You can add other elements to your first and last name, for example, describing the profile of your business: Jan Kowalski key making, or indicating the place where you are going to run your business.
+
+Your nickname or any fancy wording can also be an additional element.
+
+One natural person can have only one entry in CEIDG. You cannot have several one-person businesses registered under your name, but you can engage in different types of business under one entry.
+
+Read more 
+about the entrepreneur’s name
+.
+
+Decide which business address you are going to provide in the register
+
+You can run your business 
+in one or more permanent locations
+, such as a service point, an office, including a virtual or coworking office, your own flat or 
+without a permanent address, or you can have a mobile business
+, for example, if you perform services at a client’s site. You are free to make your own choice in this regard.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+declare 
+a delivery address
+, so the place where you will receive correspondence regarding your business
+
+set up 
+an e-Delivery address
+, so an electronic address for your business to receive official correspondence
+
+declare 
+the address of your permanent place of business
+ if you intend to operate at a fixed location
+
+declare 
+additional fixed locations
+ where you operate if you run, for example, subsidiaries, branches, warehouses or order intake points in addition to your fixed location.
+
+Please note!
+ You can select the option “no permanent place of business” if you do not intend to run your business at a permanent location.
+
+Please note!
+ You must hold a legal title to each property whose 
+address you register with CEIDG
+. The title to the property may be:
+
+ownership (co-ownership) of the property or residential premises
+
+perpetual usufruct of land with ownership of buildings
+
+cooperative ownership right to premises
+
+lease
+
+rental
+
+lending for use.
+
+Read more about:
+
+the place of business
+
+e-Delivery for entrepreneurs (PL)
+.
+
+Select the PKD code
+
+An entrepreneur who registers a business must assign the activity to a specific code in 
+the
+ 
+Polish Classification of Activities
+, hence choose the 
+PKD code
+.
+
+The codes are used in public statistics, but they are also of great practical importance. For example, some codes are linked to certain forms of taxation or to the obligation to use a cash register, or to VAT registration.
+
+Search for the type of code that best suits your needs. Choose one main code, that is, related to the activity that should bring you the most revenue, and any number of additional codes.
+
+Read 
+how to choose a PKD code
+.
+
+Check if you need a permit
+
+In principle, entrepreneurs are free to act. This means that they do not need anyone’s permission to run a specific type of business.
+
+Sometimes, however, in order to run a business, you need to have certain professional licenses, have certain equipment or specific premises.
+
+There are also some businesses that you can run only 
+after obtaining a permit
+ from the relevant public institutions.
+
+In these cases, you may need a license, concession, permit or entry in the register of regulated activities. You need to apply for them 
+after you register your business
+.
+
+Read 
+more about regulated activities
+.
+
+Choose the form of income taxation
+
+When you run a one-person business, you are a taxpayer of personal income tax, or 
+PIT.
+
+You can choose from 
+three forms of
+ business 
+income taxation
+:
+
+on general principles, according to the tax scale (tax rate of 12% and 32%)
+
+at a flat rate (tax rate of 19%)
+
+with a lump sum tax on registered revenue.
+
+Please note!
+ The fourth form of taxation – the so-called 
+tax card scheme
+ – can only be used by taxpayers who continue to be taxed in this form; they were already taxed in this way in 2021. Therefore, if you are just starting a business, you cannot choose the tax card scheme.
+
+The tax scale is the basic form of business income taxation: This means that you will be taxed on general principles unless 
+you choose a different form of taxation.
+
+In the case of the tax scale and flat rate tax, net income is taxable, and in the case of the lump sum tax on registered revenue, it is the revenue (sales).
+
+Please note!
+ Opting for the lump sum tax on registered revenue will not always be possible, among others because there are some businesses that cannot be taxed in this way.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+Along with the application for the registration of your business with CEIDG, you can declare the form of taxation: taxation on general principles, according to the tax scale, flat rate tax or lump sum tax on registered revenue.
+
+Read 
+how to choose the best form of business income taxation
+.
+
+Check if you need to pay VAT
+
+VAT is a tax levied at each stage of the marketing of goods or services. Its value is added to each transaction.
+
+You pay VAT regardless of PIT and whether you settle PIT on general principles – according to the tax scale, according to the flat rate, lump sum tax on registered revenue or on a tax card scheme basis.
+
+As an entrepreneur, 
+you are, as a rule, obliged to register for VAT (PL)
+.
+
+However, you do not need to register if:
+
+your sales do not exceed the threshold of 
+PLN 200,000
+ per year
+
+you sell only goods and services exempt from VAT.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+Use the VAT-R form for registration. You must submit it no later than the day before the date on which the sale of goods or provision of services subject to VAT commences.
+
+You can do this 
+when you register your business with CEIDG
+, even if you have not yet been assigned the tax identification number NIP.
+
+Choose between two options:
+
+registration as an active taxpayer
+
+registration as an exempt taxpayer – you can (but you do not have to) submit a VAT-R form.
+
+Check 
+when you can avoid paying VAT
+.
+
+Decide how to do your bookkeeping
+
+Entrepreneurs must keep accounting records, which include: invoices, receipts, records. The only exception is for businesses that have chosen the tax card scheme; in their case, bookkeeping is not necessary, since the amount of tax for a given tax year is determined for them by the head of the relevant tax office.
+
+Other entrepreneurs can do their bookkeeping in the following forms:
+
+simplified form – in a tax revenue and expense ledger or in a revenue register for the flat rate tax
+
+full form – in accounting books.
+
+Please note!
+ You can 
+outsource your bookkeeping
+ to a third party, such as an accounting firm.
+
+See 
+more about forms of bookkeeping in a business (PL)
+ and see 
+if you need to record sales on a fiscal cash register (PL)
+.
+
+Open a bank account
+
+Entrepreneurs can use a business account or their private account for business; however, it must be an account that has only one holder.
+
+A bank account is all the more important because not every transaction can be settled in cash. According to the regulations, an entrepreneur 
+cannot make cash payments
+ if:
+
+another entrepreneur is a party to the transaction
+
+a single transaction value exceeds the equivalent of 
+PLN 15,000
+, regardless of the number of resulting payments.
+
+If you make such transactions, you must have a bank account. You will also need it to pay taxes or social insurance contributions.
+
+Please note!
+ Micro-entrepreneurs, so companies that had fewer than 10 employees in at least one of the last two fiscal years and had an annual net turnover of less than EUR 2 million, can pay social insurance contributions and taxes 
+at the post office
+.
+
+You will need a business account (not a private account) if:
+
+you are a VAT taxpayer – only the numbers of business bank accounts are published in the list of VAT taxpayers, that is, the White List of VAT taxpayers
+
+you make transactions using the split payment mechanism.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+In the application for registration of your business with CEIDG, provide the bank account number that you will use. You will receive a tax refund from the tax office on this account. If this is a business account, and you are a VAT taxpayer, this account will be on the White List of VAT taxpayers.
+
+Read more about:
+
+the White List of VAT taxpayers (PL)
+
+the split payment mechanism (PL)
+
+cash and non-cash payments (PL)
+.
+
+Check the contributions that you will pay to the Social Insurance Institution (ZUS)
+
+As an entrepreneur, you must settle and pay contributions for yourself to the Social Insurance Institution as follows:
+
+social insurance, of which old-age pension, disability and accident insurance is compulsory and sickness insurance is voluntary
+
+Labour Fund and Solidarity Fund
+
+health insurance.
+
+Entrepreneurs who are just starting a business or have closed their previous business at least 60 months earlier and do not plan to provide services to their former employer for the first six months of their business activity can benefit from a 
+Relief for starting a business
+.
+
+The relief exempts you from paying contributions to:
+
+social insurance, i.e. old-age pension, disability and accident insurance
+
+Labour Fund
+
+Solidarity Fund.
+
+After 6 months, you can take advantage of another option to reduce your contribution and 
+pay reduced contributions on a preferential basis for 24 months
+.
+
+If you are not entitled to any relief, you must pay social security contributions on a 
+basis of no less than 60% of the predicted average monthly salary
+.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+You register for insurance with the Social Insurance Institution (ZUS) on special forms. Our system will ask you the right questions and generate these forms based on your answers.
+
+On the basis of your entry in CEIDG, ZUS will automatically enter you in the register of contribution payers and record information about your settlements in the payer’s account. It will also send information on the number of your contribution account in the Social Insurance Institution to your mailing address.
+
+Please note!
+ If you are 
+a farmer
+ and you want to set up a business, you can keep your right to Agricultural Social Insurance Fund (KRUS) insurance.
+
+Read:
+
+what types of contributions to the Social Insurance Institution (ZUS) the entrepreneur pays
+
+Who can benefit from the relief for starting a business (PL)
+
+Who can pay reduced contributions on a preferential base (PL)
+
+Decide if you need an attorney
+
+An attorney is a person who will be authorized to act on your behalf, in accordance with the scope of the power of attorney granted. You can appoint more than one attorney. An attorney can, for example, enter into agreements, accept payments or represent you before an administrative body or a court.
+
+What you can do when you set up a business online on Biznes.gov.pl
+
+Declare that you are going to appoint an attorney when registering your business. If your attorney is registered with CEIDG, you do not need to provide a power of attorney document every time the attorney handles your case before an administrative body.
+
+You will not pay stamp duty for a power of attorney, either; the registry shows all the data of appointed attorneys, along with information about the scope of the power of attorney granted.
+
+Read 
+more about the entrepreneur’s attorney registered with CEIDG
+.
+
+Get ready to register your business online
+
+On Biznes.gov.pl you will set up a business online using 
+an electronic application wizard
+.
+
+All you have to do is select the options that apply to you or enter the data the wizard asks for. The system will prepare an application for entry in the register of businesses, an application for setting up an address for e-Deliveries, and an application to the Social Insurance Institution (ZUS) or Agricultural Social Insurance Fund (KRUS), Statistics Poland (GUS) and the tax office.
+
+With an account on Biznes.gov.pl, you can change online the information in the CEIDG entry, suspend, resume and terminate your business.
+
+To register a business on Biznes.gov.pl, you must have 
+a Trusted Profile
+ or a 
+qualified signature.
+
+the trusted profile is a free tool for contacting the public administration (offices, ministries). It can be set up by anyone holding a PESEL number and having full or limited legal capacity.
+
+the qualified signature is a paid electronic signature that has the same legal effect as a handwritten signature. You can use it to sign any document, including an application to an administrative body or an agreement with a counterparty, or to participate in electronic auctions on bidding platforms.
+
+Read:
+
+about the benefits of an account on Biznes.gov.pl and take advantage of the ease of starting and running a business
+
+what a trusted profile is for and how to get it
+
+what a qualified signature is for and how to buy it
+.
+
+Before starting online registration, 
+prepare the information
+ that you will be asked or questioned about. In the application for an entry in the register, you must provide the following information:
+
+first name, last name, parents’ names, date and place of birth
+
+type, series and number of your identity document
+
+your PESEL (personal identification) number if you have a Polish citizenship or have received your PESEL
+
+European ID – if you have not been assigned a PESEL number
+
+all citizenships held
+
+NIP (tax identification) and REGON (statistical) numbers if assigned
+
+address of residence and other addresses related to the business that is being established
+
+the name of your future business
+
+short name
+
+PKD codes
+
+the number of employees that you plan to hire
+
+date of commencement of your business
+
+information about insurance with ZUS (Social Insurance Institution), KRUS (Agricultural Social Insurance Fund) or abroad
+
+details of the tax office with jurisdiction over your place of residence
+
+e-mail address to which information will be sent about the creation of an e-Delivery address for your business, along with information on how to activate the e-Delivery box
+
+first and last name of the administrator of the e-Delivery box, their e-mail address and PESEL number, and if PESEL is not assigned, the European ID – if you want to designate the administrator of the e-Delivery box
+
+Please note!
+ If you do not have 
+NIP (PL)
+ or REGON numbers, your application for entry in the register of businesses will be at the same time an application to obtain them. NIP and REGON numbers will be automatically completed in your entry – NIP within 1 business day, and REGON within 7 days.
+
+START A BUSINESS ONLINE
+
+If you want to ask about:
+
+business registration or entrepreneurial duties
+, contact our 
+Help Centre
+, which operates Monday through Friday from 7:00 a.m. to 5:00 p.m.
+
+taxes
+, contact 
+National Revenue Information (Krajowa Informacja Skarbowa, KIS) (PL)
+ by phone or chat. The helpline is open Monday through Friday from 7.00 a.m. to 6.00 p.m., phone no. 801 055 055 or 22 330 03 30. 
+Chat
+ with a consultant is available Monday through Friday from 8:00 a.m. to 4 p.m.
+
+social insurance or social insurance contributions
+: contact the 
+ZUS Call Centre (PL)
+. The helpline is open Monday through Friday from 7.00 a.m. to 6.00 p.m., phone no. 22 560 16 00.
+
+Keep in mind that consultants are not allowed to give individual business advice, for example, on choosing the form of taxation. Accountants and tax consultants will help you with this.
+
+×
+
+ 
+
+Ask question (form)
+
+ A confirmation of the inquiry submission, information about the change of status and a response
+ will be sent to the e-mail address indicated in the form. The maximum response time is
+ 7 calendar days, 14 calendar days for inquiry requiring consultation with other offices.
+ 
+More
+.
+ 
+
+ The official inquiry form is part of the Polish Single Point of Contact
+ 
+www.biznes.gov.pl
+. The detailed scope of tasks carried
+ out by the Single Point of Contact is regulated by Section III of
+ the Law on Central Registration and Information on Economic Activity and the Entrepreneur
+ Information Point. For more information, see 
+the Legal Notes
+ page.
+ 
+
+ The Contact Point does not provide advice on individual cases.
+ 
+
+Applicant
+
+Select
+
+Entrepreneur
+
+Citizen
+
+Official
+
+E-mail
+
+Topic
+
+Select
+
+economic activity in Poland
+
+data warehouse CEIDG
+
+economic activity in EU
+
+registering economic activity in CEIDG
+
+dispute entrepreneurs/consumers
+
+issues concerning emploee/employer
+
+electronic delivery
+
+failure/error of www.biznes.gov.pl
+
+technical support CEIDG App
+
+Integration for banks
+
+Content
+
+Minimum of 10 characters
+
+Add attachment (optional)
+
+Maximum single file size 5MB, accepted formats: .jpg,.jpeg,.png,.bmp,.gif,.pdf,.doc,.docx,.odt,.xls,.xlsx,.xml
+
+Indicate the file
+
+add another attachment
+
+Send
+
+Wybierz

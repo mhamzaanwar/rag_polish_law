@@ -1,0 +1,4 @@
+SOURCE: https://wyszukiwarka-krs.ms.gov.pl
+TITLE: National Court Register (KRS) search system for companies and legal entities in Poland
+
+Wyszukiwarka KRS

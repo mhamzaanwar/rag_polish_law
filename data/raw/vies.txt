@@ -1,0 +1,4 @@
+SOURCE: https://ec.europa.eu/taxation_customs/vies/
+TITLE: EU VAT Information Exchange System (VIES) for validating VAT numbers of EU businesses
+
+Vies on-the-Web - European Commission

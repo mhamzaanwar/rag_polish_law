@@ -1,0 +1,932 @@
+SOURCE: https://www.podatki.gov.pl/podatki-firmowe/vat/informacje-podstawowe/
+TITLE: Fundamental VAT concepts including taxable activities, taxpayers, and scope of VAT in Poland
+
+﻿
+
+
+
+
+
+Serwis o podatkach - Informacje podstawowe 
+
+
+ Podatki osobiste
+ 
+
+
+ Podatki dla przedsiębiorców
+ 
+
+
+ Cło
+ 
+
+
+ Poradniki i informatory
+ 
+
+
+ Aktualności
+ 
+
+
+ Narzędzia
+ 
+
+
+ Załatw sprawę online
+ 
+
+ Od dochodu
+
+Podstawowy podatek od dochodów osobistych.
+
+PIT
+
+Informacje podstawowe
+
+Ulgi i odliczenia
+
+Stawki i limity
+
+Formularze
+
+Wybierz swoją sytuację
+
+Mam dochody z pracy
+
+Mam dochody z pracy wykonywanej za granicą
+
+Mam dochody z umowy zlecenia lub o dzieło
+
+Mam dochody z praw autorskich
+
+Mam dochody z najmu
+
+Mam dochody z działalności nierejestrowanej
+
+Mam dochody niani
+
+Mam dochody z emerytury
+
+ Od majątku
+
+Podatki, które opłacasz, kiedy zmienia się Twoja sytuacja majatkowa.
+
+Spadki i darowizny (
+SD
+)
+
+Czynności cywilnoprawne (
+PCC
+)
+
+ Od zakupów
+
+Podatki związane z transakcjami kupna różnych produktów z kraju i zagranicy.
+
+Akcyza
+
+VAT
+
+ Pozostałe
+
+Wybrane podatki lokalne oraz inne formy opodatkowania.
+
+Podatek od gier
+
+Podatki lokalne
+
+Interpretacje podatkowe
+
+ Podstawowe podatki dla przedsiębiorców
+
+
+ PIT
+ 
+
+
+ CIT
+ 
+
+
+ VAT
+ 
+
+JPK
+
+
+ Akcyza
+ 
+
+ Pozostałe podatki
+
+od czynności cywilnoprawnych (
+PCC
+)
+
+od spadków i darowizn (
+SD
+)
+
+tonażowy
+
+od gier
+
+od sprzedaży detalicznej
+
+od wydobycia niektórych kopalin
+
+od niektórych instytucji finansowych
+
+od sprzedaży alkoholu w opakowaniach powyżej 300 ml
+
+Opłata cukrowa
+
+Klauzula ogólna przeciwko unikaniu opodatkowania
+
+ 
+
+Podatki lokalne
+
+Pełnomocnictwa 
+
+Opłata skarbowa
+
+Rejestr działalności  na rzecz spółek  lub  trustów
+
+Rejestr działalności w zakresie walut wirtualnych
+
+Ceny transferowe 
+
+Program współdziałania 
+
+Działalność gospodarcza
+ 
+
+Interpretacje podatkowe
+
+Podatkowa współpraca międzynarodowa
+
+Porozumienie inwestycyjne
+
+Wiążące informacje podatkowe i celne
+
+ 
+
+eNotariusz
+
+eSprawozdania
+
+Zawiadomienie 
+ZAW-NR
+
+WHT
+ - Withholding Tax (podatek u źródła)
+
+MDR
+ - Raportowanie schematów podatkowych
+
+ICAP
+ - 
+International Compliance Assurance Programme
+
+ETACA
+ - European Trust And Cooperation Approac
+
+SME
+ - procedura szczególna
+
+GLOBE
+ - opodatkowanie wyrównawcze
+
+CRBR
+ - Centralny Rejestr Beneficjentów Rzeczywistych
+
+Procedury 
+TAX FREE, VAT-REFUND, VAP, OSS i IOSS
+
+ Podstawowe informacje o cle
+
+Informacje dla osób fizycznych
+
+Informacje dla przedsiębiorców
+
+Ograniczenia przywozu i wywozu towarów
+
+Zabezpieczenie i pobór należności celnych oraz zwrot i umorzenia należności celnych
+
+Zintegrowana Taryfa Celna 
+
+ Pozostałe
+
+Agenci celni
+
+Gwaranci celni
+
+Kursy walut w przepisach
+
+Podstawa prawna
+
+Zwolnienia
+
+ 
+
+ 
+
+ Ogólne
+
+CBAM
+
+Zgłoszenie celne i INTRASTAT
+
+Brexit a cło
+
+Reforma celna
+
+ Narzędzia
+
+Kalkulator taryfowy
+
+Przeglądarka taryfowa
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Kalkulatory
+
+Kalkulator odsetek za zwłokę od zaległości podatkowych oraz opłaty prolongacyjnej
+
+Kalkulator odsetek ustawowych
+
+Kalkulator walut
+
+ Wyszukiwarki
+
+System Informacji Celno-Skarbowej EUREKA 
+
+Wyszukiwarka urzędów skarbowych i jednostek Krajowej Administracji Skarbowej
+
+Wykaz podmiotów zarejestrowanych jako podatnicy VAT, niezarejestrowanych oraz wykreślonych i przywróconych do rejestru VAT
+
+Plik płaski
+
+Wyszukiwarka OPP 1,5%
+
+Kaucja gwarancyjna
+
+Wyszukiwarka uprawnień serwisantów 
+
+Potwierdzanie numeru VAT UE (VIES)
+
+ Inne narzędzia 
+
+Aplikacja mobilna eUS
+
+Aplikacja e-Paragony
+
+Jak pobrać Urzędowe Poświadczenie Odbioru (UPO)
+
+Czas oczekiwania na granicy
+
+Ważne terminy 
+
+Rejestr zastawów skarbowych 
+
+Głos podatnika
+
+Kreator wniosku ORD-IN
+
+Informacje podstawowe
+
+Stawki i limity
+
+Formularze
+
+Podstawa prawna
+
+Ulgi i odliczenia
+
+Poradniki i informatory
+
+Pilotaż VAT UE CBR
+
+Kasy rejestrujące
+
+
+ Informacje podstawowe
+ 
+
+Informacje podstawowe
+
+Stawki i limity
+
+Formularze
+
+Podstawa prawna
+
+Ulgi i odliczenia
+
+Poradniki i informatory
+
+Pilotaż VAT UE CBR
+
+Kasy rejestrujące
+
+ 
+
+Informacje podstawowe
+
+Sprawdź kto jest podatnikiem VAT i podatnikiem VAT UE, kim jest mały podatnik, na czym polega metoda kasowa, jak rozliczyć podatek VAT, jakie są zwolnienia od podatku.
+
+
+ Data publikacji: 
+15.12.2025
+
+ Data aktualizacji: 
+15.12.2025
+
+Co to jest podatek VAT 
+
+Podatek VAT, czyli podatek od towarów i usług (ang. Value Added Tax), to podatek pośredni stanowiący dochód budżetu państwa, który jest doliczany do ceny produktów i usług na każdym etapie obrotu gospodarczego.
+
+Co jest opodatkowane
+
+Czynności, które wykonujesz w związku z prowadzoną działalnością gospodarczą:
+
+odpłatna dostawa towarów,
+
+odpłatne świadczenie usług,
+
+eksport i import towarów na terytorium kraju,
+
+wewnątrzwspólnotowa dostawa towarów,
+
+wewnątrzwspólnotowe nabycie towarów za wynagrodzeniem na terytorium kraju
+
+- podlegają opodatkowaniu podatkiem VAT.
+
+Czynności te są opodatkowane podatkiem VAT, gdy ich państwem opodatkowania jest Polska.
+
+Nie podlegają opodatkowaniu podatkiem VAT:
+
+transakcje zbycia przedsiębiorstwa lub zorganizowanej części przedsiębiorstwa,
+
+czynności, które nie mogą być przedmiotem prawnie skutecznej umowy.
+
+Co jest działalnością gospodarczą
+
+Działalność gospodarcza dla celów VAT to wszelka działalność producentów, handlowców lub usługodawców, w tym podmiotów, które pozyskują zasoby naturalne oraz rolników, a także działalność osób, które wykonują wolne zawody. Działalność gospodarcza polega w szczególności na wykorzystywaniu towarów lub wartości niematerialnych i prawnych w sposób ciągły dla celów zarobkowych.
+
+Kto płaci podatek
+
+Kto jest podatnikiem
+
+Podatnikiem podatku od towarów i usług (VAT) jest osoba fizyczna, prawna oraz jednostka organizacyjna nieposiadająca osobowości prawnej (np. spółka cywilna, spółka jawna, spółka partnerska, itp.), która samodzielnie wykonuje działalność gospodarczą, bez względu na cel czy rezultat takiej działalności.
+
+Podatnikiem VAT będzie także jednostka organizacyjna niemająca osobowości prawnej stanowiąca przedsiębiorstwo w spadku kontynuująca prowadzenie działalności gospodarczej zmarłego podatnika od otwarcia spadku do dnia wygaśnięcia zarządu sukcesyjnego albo do dnia wygaśnięcia uprawnienia do powołania zarządcy sukcesyjnego, jeżeli zarząd sukcesyjny nie został ustanowiony i dokonano odpowiedniego zgłoszenia zgodnie z ustawą o zasadach ewidencji i identyfikacji podatników i płatników.
+
+Podatnikiem VAT jest również osoba prawna, jednostka organizacyjna niemająca osobowości prawnej oraz osoba fizyczna zobowiązana do zapłaty cła (nawet w przypadku gdy importowany towar jest zwolniony od cła albo cło zostało zawieszone, albo zastosowano preferencyjną, obniżoną lub zerową stawkę celną), uprawniona do korzystania z procedury uszlachetniania czynnego lub procedury odprawy czasowej.
+
+W niektórych sytuacjach podatnikami mogą być również usługobiorcy oraz podmioty, które nabywają towary.
+
+Jak zostać podatnikiem VAT czynnym
+
+W celu rejestracji do podatku VAT musisz 
+wypełnić formularz VAT-R
+ (Zgłoszenie rejestracyjne w zakresie podatku od towarów i usług) i złożyć je do właściwego naczelnika urzędu skarbowego:
+
+przed dniem wykonania pierwszej czynności podlegającej opodatkowaniu VAT
+
+lub, jeśli korzystasz ze zwolnienia na podstawie art. 113 
+ustawy o VAT
+:
+
+przed dniem, w którym tracisz prawo do zwolnienia lub,
+
+przed początkiem miesiąca, w którym rezygnujesz ze zwolnienia.
+
+Zgłoszenie możesz:
+
+złożyć elektronicznie:
+
+przez system 
+e-Deklaracje
+ albo,
+
+w 
+e-Urzędzie Skarbowym
+ albo,
+
+jako załącznik do wniosku o wpis działalności do CEIDG lub wniosku o zmianę wpisu w CEIDG;
+
+złożyć osobiście;
+
+wysłać pocztą.
+
+Rejestracja przedsiębiorcy dla celów VAT jest bezpłatna.
+
+Możesz wystąpić z wnioskiem o wydanie potwierdzenia zarejestrowania podmiotu jako podatnika VAT, w takim przypadku zobowiązany będziesz wnieść opłatę skarbową w wysokości 170 zł.
+
+Jak zostać podatnikiem VAT-UE
+
+Jeśli:
+
+jesteś zarejestrowany jako podatnik VAT czynny i zamierzasz rozpocząć dokonywanie wewnątrzwspólnotowej dostawy towarów (WDT) lub wewnątrzwspólnotowego nabycia towarów (WNT);
+
+nie jesteś zarejestrowany jako podatnik VAT czynny (korzystasz ze zwolnienia od podatku) i:
+
+całkowita wartość WNT na terytorium Polski przekroczyła w trakcie roku podatkowego kwotę 50 tys. zł albo,
+
+mimo nieprzekroczenia ww. kwoty 50 tys. zł zamierzasz wybrać opodatkowanie WNT;
+
+dokonujesz importu usług, do których stosuje się art. 28b 
+ustawy o VAT
+ (nabywasz z zagranicy usługi, których miejscem opodatkowania jest Polska);
+
+świadczysz usługi inne niż zwolnione od podatku od wartości dodanej lub opodatkowane stawką 0%, których miejscem opodatkowania jest państwo członkowskie inne niż Polska, dla których zobowiązanym do zapłaty podatku od wartości dodanej jest usługobiorca
+
+- musisz zarejestrować się jako podatnik VAT-UE.
+
+Rejestracja VAT-UE
+
+Jeżeli nie zarejestrowałeś się jeszcze jako podatnik czynny lub zwolniony VAT, wówczas rejestracji do VAT-UE dokonasz na tym samym druku co rejestracji do VAT 
+(VAT-R )
+, a jeżeli zarejestrowałeś się już jako podatnik czynny lub zwolniony VAT, musisz jedynie złożyć aktualizację rejestracji na formularzu VAT-R.
+
+Pamiętaj!
+
+Zgłoś się zanim dokonasz pierwszej transakcji wewnątrzwspólnotowej (WDT, WNT, wewnątrzwspólnotowe świadczenie usług) lub zanim nabędziesz usługę z art. 28b ustawy o VAT stanowiącą u Ciebie import usług.
+
+Jeżeli jesteś podatnikiem zwolnionym z VAT i rejestrujesz się do VAT-UE to nadal możesz korzystać z tego zwolnienia.
+
+Składanie informacji podsumowującej
+
+Będąc zarejestrowanym podatnikiem VAT-UE, będziesz obowiązany do składania informacji podsumowującej 
+VAT-UE
+ , w której poinformujesz o dokonanych przez Ciebie transakcjach wewnątrzwspólnotowych.
+
+Wykreślenie z rejestru VAT-UE
+
+Jeżeli jesteś przedsiębiorcą, który jest zarejestrowany jako podatnik VAT-UE i zaprzestałeś dokonywania transakcji wewnątrzwspólnotowych – nabyć i dostaw, nie świadczysz usług wewnątrzwspólnotowych oraz ich nie nabywasz, to masz obowiązek zawiadomić o tym naczelnika urzędu skarbowego. Na podstawie zawiadomienia zostaniesz wykreślony przez urząd z rejestru podatników VAT-UE.
+
+Naczelnik urzędu skarbowego wykreśli Cię z rejestru jako podatnika VAT UE, jeżeli:
+
+złożysz za 3 kolejne miesiące lub kwartał pliki JPK_VAT z deklaracją, w których nie wykażesz sprzedaży, nabycia towarów lub usług ani importu towarów z kwotami podatku do odliczenia;
+
+nie złożysz przez okres 3 kolejnych miesięcy informacji podsumowujących, pomimo istnienia takiego obowiązku;
+
+zostaniesz wykreślony z rejestru podatników VAT.
+
+Wyrejestrowanie z VAT-UE
+
+Zawiadomienie o zaprzestaniu wykonywania czynności wewnątrzwspólnotowych musisz złożyć na piśmie, poprzez aktualizację formularza 
+VAT-R
+ , w terminie 15 dni licząc od dnia zaprzestania wykonywania tych czynności.
+
+Obowiązek podatkowy
+
+Moment powstania obowiązku podatkowego to zdarzenie, które powoduje konieczność rozliczenia podatku. Zależy od tego jaką usługę lub dostawę wykonujesz i w ramach jakiej transakcji.
+
+Kiedy powstaje obowiązek podatkowy
+
+W 
+ustawie o VAT
+ podstawowe informacje na temat obowiązku podatkowego znajdziesz w art. 19a. Przepisy odnoszą się zarówno do powstania obowiązku podatkowego na zasadach ogólnych jak i na zasadach szczególnych.
+
+Zgodnie z ogólną zasadą
+ obowiązek podatkowy powstaje w dniu, w którym:
+
+dokonasz dostawy towarów lub wykonasz usługę,
+
+wykonasz część usługi, dla której określono zapłatę – gdy usługa ta jest przyjmowana częściowo.
+
+W sytuacji, gdy przed dostawą towarów lub wykonaniem usługi otrzymasz całość lub część zapłaty (np. przedpłatę, zaliczkę, zadatek, ratę), to obowiązek podatkowy powstaje w dniu, w którym ją otrzymasz – w odniesieniu do otrzymanej kwoty (z wyjątkami przewidzianymi w 
+ustawie o VAT
+).
+
+W ustawie o VAT opisany został szereg wyjątków od zasady ogólnej, których znajomość jest niezbędna, żebyś w sposób prawidłowy dokonał rozliczenia podatku VAT.
+
+Więcej na temat obowiązku podatkowego przeczytasz tu:
+
+Kiedy powstaje obowiązek podatkowy
+
+Kto jest małym podatnikiem
+
+Mały podatnik to podatnik podatku VAT, u którego:
+
+wartość sprzedaży (wraz z kwotą podatku) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty, która odpowiada równowartości 
+2 000 000 euro
+ lub
+
+kwota prowizji lub innych postaci wynagrodzenia za wykonane usługi (wraz z kwotą podatku) nie przekroczyła w poprzednim roku podatkowym wyrażonej w złotych kwoty odpowiadającej równowartości 
+45 000 euro
+ w przypadku podatników, którzy prowadzą przedsiębiorstwo maklerskie, zarządzają funduszami inwestycyjnymi, zarządzają alternatywnymi funduszami inwestycyjnymi, są agentami, zleceniobiorcami lub innymi osobami, które świadczą usługi o podobnym charakterze, z wyjątkiem komisu.
+
+Jeśli rozpoczynasz w trakcie roku podatkowego wykonywanie czynności, które podlegają opodatkowaniu podatkiem VAT możesz stosować metodę kasową, jeżeli przewidywana przez Ciebie wartość sprzedaży nie przekroczy, w proporcji do okresu prowadzonej działalności kwoty odpowiadającej równowartości:
+
+2 000 000 euro lub
+
+45 000 euro w przypadku podatników, którzy prowadzą przedsiębiorstwo maklerskie, zarządzają funduszami inwestycyjnymi, są agentami, itp.
+
+Kiedy możesz wybrać metodę kasową rozliczania VAT
+
+Jeśli jesteś małym podatnikiem możesz wybrać metodę kasową rozliczania VAT, po uprzednim zawiadomieniu o tym naczelnika urzędu skarbowego. Wówczas składasz deklaracje podatkowe za okresy kwartalne do 25. dnia miesiąca następującego po każdym kolejnym kwartale z wyjątkiem przypadków, o których mowa w art. 99 ust. 3a 
+ustawy o VAT
+.
+
+W przypadku stosowania przez Ciebie metody kasowej obowiązek podatkowy z tytułu dostawy towarów lub świadczenia usług, których będziesz dokonywał na rzecz innego podatnika zarejestrowanego jako podatnik VAT czynny powstaje (z pewnymi wyjątkami) z chwilą gdy otrzymasz zapłatę. Natomiast w przypadku dostawy towarów lub świadczenia usług na rzecz innych podmiotów – rozpoznasz obowiązek podatkowy z chwilą otrzymania zapłaty, nie później niż 180. dnia od dnia wydania towaru czy wykonania usługi.
+
+Prawo do obniżenia kwoty podatku należnego o kwotę podatku naliczonego w odniesieniu do towarów i usług nabytych przez Ciebie, w okresie, w którym będziesz stosował metodę kasową, powstaje nie wcześniej niż w rozliczeniu za okres, w którym dokonasz zapłaty za nabyte towary i usługi.
+
+Co jeśli mali podatnicy nie wybiorą metody kasowej rozliczania VAT
+
+Jeśli jesteś małym podatnikiem i nie wybierzesz metody kasowej rozliczania VAT - wówczas stosujesz ogólne zasady, które dotyczą momentu powstania obowiązku podatkowego oraz odliczania podatku naliczonego.
+
+Mali podatnicy, którzy nie wybrali metody kasowej mogą również składać deklaracje kwartalne.
+
+Jaki formularz wypełnić
+
+Jeśli zarejestrujesz się jako czynny podatnik VAT, będziesz miał obowiązek składać JPK_VAT, który obejmuje część deklaracyjną i ewidencyjną.
+
+JPK_VAT z deklaracją - to dokument elektroniczny, który składa się z dwóch części:
+
+ewidencji VAT (zestaw informacji o zakupach i sprzedaży, który wynika z ewidencji VAT przedsiębiorcy za dany okres),
+
+deklaracji VAT (dotychczasowa deklaracja VAT-7 i VAT-7K).
+
+Kiedy złożyć plik JPK_VAT z deklaracją
+
+JPK_VAT składasz wyłącznie w wersji elektronicznej za okresy miesięczne, do 25. dnia miesiąca za miesiąc poprzedni (chyba że 25. dzień miesiąca wypada w sobotę lub dzień ustawowo wolny od pracy, wtedy jest czas do pierwszego dnia roboczego).
+
+Jeżeli rozliczasz się kwartalnie to zobowiązany jesteś do składania JPK_VAT, wypełniając tylko część ewidencyjną za pierwsze dwa miesiące każdego kwartału. Natomiast po zakończeniu kwartału wypełniasz część ewidencyjną za trzeci miesiąc kwartału oraz część deklaracyjną JPK_VAT za cały kwartał (art. 99 
+ustawy o VAT
+).
+
+Wykazywanie danych w ewidencji i deklaracji
+ reguluje 
+rozporządzenie Ministra Finansów, Inwestycji i Rozwoju z dnia 15 października 2019 r. w sprawie szczegółowego zakresu danych zawartych w deklaracjach podatkowych i w ewidencji w zakresie podatku od towarów i usług.
+
+Kiedy złożyć informację podsumowującą
+
+Informację podsumowującą 
+VAT-UE
+ , w której poinformujesz o dokonanych przez Ciebie transakcjach wewnątrzwspólnotowych złóż elektronicznie do 25. dnia następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu dokonania transakcji lub w którym dokonałeś przemieszczenia towarów lub zmiany w zakresie procedury magazynu typu call-off stock.
+
+Transakcje, które masz obowiązek wykazać w informacji podsumowującej:
+
+wewnątrzwspólnotowe dostawy towarów w rozumieniu art. 13 ust. 1 i 3 
+ustawy o VAT
+, do których ma zastosowanie art. 42 ust. 1 
+ustawy o VAT
+, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej,
+
+wewnątrzwspólnotowe nabycia towarów, o których mowa w art. 9 ust. 1 lub art. 11 ust. 1 
+ustawy o VAT
+, od podatników podatku od wartości dodanej, zidentyfikowanych na potrzeby podatku od wartości dodanej,
+
+dostawy towarów zgodnie z art. 136 ust. 1 lub 2 
+ustawy o VAT
+ (wewnątrzwspólnotowe transakcje trójstronne – procedura uproszczona), na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej,
+
+usługi, do których stosuje się art. 28b 
+ustawy o VAT
+, na rzecz podatników podatku od wartości dodanej lub osób prawnych niebędących takimi podatnikami, zidentyfikowanych na potrzeby podatku od wartości dodanej, świadczone na terytorium państwa członkowskiego innym niż terytorium kraju, inne niż zwolnione od podatku od wartości dodanej lub opodatkowane stawką 0%, dla których zobowiązanym do zapłaty podatku od wartości dodanej jest usługobiorca.
+
+Nie masz obowiązku składania zerowej informacji podsumowującej.
+
+Kiedy i jak opłacić podatek
+
+Kiedy zapłacić podatek
+
+Jeśli rozliczasz się za okresy miesięczne wówczas jesteś obowiązany, bez wezwania naczelnika urzędu skarbowego, do obliczania i wpłacania podatku w terminie do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy.
+
+Natomiast jeśli składasz deklaracje za okresy kwartalne to obowiązany jesteś do obliczania i wpłacania podatku w terminie do 25. dnia miesiąca następującego po kwartale, w którym powstał obowiązek podatkowy.
+
+Jak opłacić podatek
+
+Podatek VAT wynikający ze złożonej przez Ciebie deklaracji jesteś obowiązany wpłacić na mikrorachunek podatkowy, którego numer sprawdzisz za pomocą 
+generatora mikrorachunku podatkowego
+ wpisując swój identyfikator podatkowy.
+
+Podaj poprawnie swój identyfikator podatkowy, bo to Ty jesteś odpowiedzialny za prawidłowe wygenerowanie numeru mikrorachunku.
+
+Nie korzystaj z innych stron internetowych lub numerów rachunków wysyłanych e-mailem lub smsem, które mogą być próbą wyłudzenia. Jego wygenerowanie i prowadzenie nie wiąże się z żadnymi kosztami.
+
+Jak obliczyć podatek
+
+Kwotę podatku w odniesieniu do dostarczanych towarów lub świadczonych usług objętych daną stawką podatku możesz obliczyć według następującego wzoru:
+
+KP = WB x SP / (100 + SP)
+
+gdzie:
+
+KP – oznacza kwotę podatku,
+
+WB – oznacza wartość dostarczonych towarów lub wykonanych usług objętych stawką podatku, uwzględniającą kwotę podatku (wartość sprzedaży brutto),
+
+SP – oznacza stawkę podatku.
+
+Kwotę podatku możesz również obliczyć mnożąc kwotę brutto przez:
+
+18,70% - w przypadku towarów i usług objętych stawką 23%;
+
+7,41% - w przypadku towarów i usług objętych stawką 8%;
+
+4,76% - w przypadku towarów objętych stawką 5%.
+
+Jak rozliczyć podatek
+
+Jesteś czynnym podatnikiem podatku VAT i ciąży na Tobie obowiązek złożenia pliku JPK_VAT z deklaracją to pamiętaj, że masz możliwość korzystania z bezpłatnych narzędzi udostępnionych przez Ministerstwo Finansów.
+
+e-Mikrofirma
+
+Jeśli prowadzisz jednoosobową działalność gospodarczą i wystawiasz wyłącznie faktury krajowe to możesz skorzystać z narzędzia jakim jest aplikacja e-mikrofirma. Z pomocą aplikacji e-mikrofirma wystawisz i zapiszesz faktury krajowe, stworzysz ewidencję VAT oraz wygenerujesz pliki JPK_VAT i JPK_FA.
+
+Od 1 lutego 2021 r. e-mikrofirmę znajdziesz w 
+e-Urzędzie Skarbowym
+.
+
+Formularz uproszczony
+
+Za pomocą 
+formularza uproszczonego
+ wypełnisz, podpiszesz i wyślesz pliki JPK_V7K oraz JPK_V7M. Aplikacja tworzy automatycznie odpowiedni dla wybranego okresu wariant formularza. Narzędzie to umożliwi Ci także pobieranie pliku wypełnionego formularza w formacie XML, wczytywanie oraz podgląd w formie PDF.
+
+Klient JPK WEB
+
+Za pomocą aplikacji 
+Klient JPK WEB
+ podpiszesz i wyślesz do systemu MF uprzednio przygotowane przez Ciebie dokumenty JPK V7M oraz JPK V7K. Narzędzie to da Ci również możliwość sprawdzenia statusu wysłanego pliku za pomocą otrzymanego numeru referencyjnego.
+
+Jakie są zwolnienia od podatku
+
+Nie zawsze będziesz zobowiązany zarejestrować się jako podatnik VAT czynny, mimo, że w ramach prowadzonej działalności będziesz sprzedawał towary lub usługi, które podlegają opodatkowaniu podatkiem VAT.
+
+Ustawa przewiduje okoliczności, w których nie musisz jako przedsiębiorca dokonywać rejestracji dla potrzeb VAT jako podatnik VAT czynny.
+
+Zwolnienie podmiotowe
+
+Dokonywana przez Ciebie sprzedaż może być zwolniona od podatku VAT jeśli jej wartość nie przekroczyła łącznie w poprzednim ani w bieżącym roku podatkowym kwoty 240 000 zł (do wartości sprzedaży nie wlicza się kwoty podatku).
+
+Zwolnienie możesz zastosować również jeżeli rozpoczynasz wykonywanie czynności opodatkowanych VAT w trakcie roku, z tym że przewidywana przez Ciebie wartość sprzedaży (bez podatku) w tym roku nie może przekroczyć kwoty 240 000 zł w proporcji do okresu prowadzonej działalności gospodarczej.
+
+Jeżeli wartość Twojej sprzedaży przekroczy w trakcie roku podatkowego kwotę 240 000 zł zwolnienie traci moc – począwszy od czynności, którą przekroczysz tę kwotę.
+
+Pamiętaj, że masz możliwość dobrowolnej rezygnacji z tego zwolnienia i wówczas stajesz się podatnikiem VAT czynnym.
+
+Nie możesz skorzystać
+ z tego zwolnienia, jeśli:
+
+będziesz dokonywał dostawy:
+
+towarów wymienionych w załączniku nr 12 do 
+ustawy o VAT
+,
+
+towarów opodatkowanych podatkiem akcyzowym, w rozumieniu przepisów o podatku akcyzowym, z wyjątkiem:
+
+energii elektrycznej (CN 2716 00 00),
+
+wyrobów tytoniowych,
+
+samochodów osobowych, innych niż nowe środki transportu, zaliczanych przez podatnika, na podstawie przepisów o podatku dochodowym, do środków trwałych podlegających amortyzacji,
+
+budynków, budowli lub ich części, w przypadkach, o których mowa w art. 43 ust. 1 pkt 10 lit. a i b ustawy o VAT,
+
+terenów budowlanych,
+
+nowych środków transportu,
+
+następujących towarów, w związku z zawarciem umowy w ramach zorganizowanego systemu zawierania umów na odległość, bez jednoczesnej fizycznej obecności stron, z wyłącznym wykorzystaniem jednego lub większej liczby środków porozumiewania się na odległość do chwili zawarcia umowy włącznie:
+
+preparatów kosmetycznych i toaletowych (PKWiU 20.42.1),
+
+komputerów, wyrobów elektronicznych i optycznych (PKWiU 26),
+
+urządzeń elektrycznych (PKWiU 27),
+
+maszyn i urządzeń, gdzie indziej niesklasyfikowanych (PKWiU 28),
+
+hurtowo i detalicznie części i akcesoriów do:
+
+pojazdów samochodowych, z wyłączeniem motocykli (PKWiU 45.3),
+
+motocykli (PKWiU ex 45.4).
+
+będziesz świadczył usługi:
+
+prawnicze,
+
+w zakresie doradztwa, z wyjątkiem doradztwa rolniczego związanego z uprawą i hodowlą roślin oraz chowem i hodowlą zwierząt, a także związanego ze sporządzaniem planu zagospodarowania i modernizacji gospodarstwa rolnego,
+
+jubilerskie,
+
+ściągania długów, w tym factoringu.
+
+Zwolnienie przedmiotowe
+
+Przysługuje Ci zwolnienie ze względu na przedmiot prowadzonej przez Ciebie działalności, tj. sprzedaży towarów lub usług wymienionych w art. 43 ust. 1 
+ustawy o VAT
+, jak również wymienionych w 
+rozporządzeniu Ministra Finansów w sprawie zwolnień od podatku od towarów i usług oraz warunków stosowania tych zwolnień
+.
+
+Pamiętaj, że z tego zwolnienia nie możesz zrezygnować z zastrzeżeniem art. 43 ust. 10 i ust. 22-24
+ustawy o VAT
+.
+
+Likwidacja działalności gospodarczej
+
+Jeśli likwidujesz indywidualną działalność gospodarczą lub następuje rozwiązanie spółki osobowej, jako czynny podatnik VAT musisz pamiętać o kilku ważnych sprawach, aby prawidłowo rozliczyć się z urzędem skarbowym. Główne obowiązki dotyczą:
+
+sporządzenia spisu z natury i wykazania należnego VAT od towarów w nim ujętych;
+
+zgłoszenia w US zaprzestania działalności opodatkowanej – na 
+formularzu VAT-Z
+;
+
+rozliczenia ulgi na złe długi w przypadku otrzymania zapłaty po zakończeniu działalności;
+
+korekty podatku naliczonego od środków trwałych, dla których nie upłynął okres korekty, w przypadku zmiany ich przeznaczenia w związku z dokonanym spisem z natury (art. 91 
+ustawy o VAT
+ ).
+
+Kiedy musisz sporządzić spis z natury
+
+Spis z natury przygotowuje każdy podatnik, który prowadzi jednoosobową działalność gospodarczą bądź spółka cywilna lub handlowa nieposiadająca osobowości prawnej, które do czasu zamknięcia działalności pozostają czynnym podatnikiem VAT.
+
+Spis z natury dla potrzeb podatku VAT sporządzasz w przypadku, gdy:
+
+rozwiążesz spółkę cywilną lub handlową niemającą osobowości prawnej;
+
+wygasł zarząd sukcesyjny lub uprawnienia do jego powołania;
+
+zaprzestajesz wykonywać czynności, które podlegają opodatkowaniu VAT jako osoba fizyczna lub przedsiębiorstwo w spadku;
+
+nie masz zawieszonej działalności gospodarczej na podstawie odrębnych przepisów i nie wykonujesz czynności, które podlegają opodatkowaniu podatkiem VAT, przez co najmniej 10 miesięcy.
+
+Spisu z natury nie sporządzają przedsiębiorcy, którzy korzystają ze zwolnienia podmiotowego z VAT oraz spółki z ograniczoną odpowiedzialnością, proste spółki akcyjne i spółki akcyjne.
+
+Nie musisz zgłaszać do urzędu skarbowego zamiaru sporządzenia spisu z natury.
+
+Co powinieneś uwzględnić w spisie z natury VAT
+
+W spisie z natury dla celów podatku VAT masz obowiązek wykazać wszystkie towary handlowe, materiały, wyposażenie i środki trwałe, które na dzień likwidacji działalności gospodarczej pozostają w firmie, w stosunku do których przysługiwało prawo do odliczenia VAT. Są to towary, których zakup udokumentowany był fakturami, bez względu na to czy skorzystałeś z prawa do odliczenia VAT, czy też nie.
+
+W spisie z natury dla celów VAT nie uwzględniasz towarów, w stosunku do których nie mogłeś skorzystać z prawa do odliczenia podatku od towarów i usług.
+
+Przepisy nie określają wzoru spisu z natury. W sporządzonym spisie z natury podaj:
+
+imię i nazwisko właściciela i nazwę firmy;
+
+datę sporządzenia remanentu;
+
+numer kolejny pozycji arkusza;
+
+szczegółowe określenie towaru i innych składników:
+
+nazwę towaru,
+
+jednostkę miary,
+
+ilość stwierdzoną w czasie spisu,
+
+cenę za jednostkę miary,
+
+wartość wynikającą z przemnożenia ilości towaru przez jego cenę,
+
+stawkę podatku VAT obowiązującą dla danego towaru,
+
+kwotę podatku,
+
+łączną wartość spisu z natury;
+
+podpisy osób, które sporządzały spis i właściciela firmy.
+
+Jak powinieneś dokonać wyceny towarów
+
+Podstawą opodatkowania towarów, jakie pozostają w przedsiębiorstwie na dzień likwidacji działalności gospodarczej jest cena nabycia towarów lub towarów podobnych, a gdy nie ma ceny nabycia - koszty wytworzenia, określone w momencie dostawy tych towarów.
+
+Oznacza to, że zasadniczo jako podstawę opodatkowania zastosujesz cenę rynkową nabytych towarów wykazanych w spisie i opodatkujesz je stosując stawkę VAT właściwą dla danego towaru.
+
+Wyjątek stanowią materiały i towary, dla których cena nie uległa zmianie od dnia ich nabycia. W takim przypadku wyceny możesz dokonać po cenie zakupu wynikającej z faktury dokumentującej nabycie.
+
+Gdzie wykażesz sporządzony spis z natury
+
+Majątek, który został wykazany w spisie z natury podlega opodatkowaniu. Dzień, w którym rozwiązaliście spółkę lub zaprzestałeś wykonywania czynności podlegających opodatkowaniu albo wygasł zarząd sukcesyjny oraz wygasły uprawnienia do powołania zarządcy sukcesyjnego jest dniem powstania obowiązku podatkowego.
+
+Kwotę należnego podatku wynikającą ze spisu z natury musisz wykazać w JPK_VAT z deklaracją składanym za ostatni okres rozliczeniowy prowadzenia działalności gospodarczej.
+
+Do urzędu skarbowego masz obowiązek złożyć informację o sporządzonym spisie i jego wartości oraz kwocie podatku VAT wynikającej z tego spisu. Możesz to zrobić osobiście, listownie lub elektronicznie przez 
+e-Urząd
+ (VAT-S1M lub VAT-S1K). Jednak nie później niż w dniu składania JPK_VAT z deklaracją za ostatni okres rozliczeniowy.
+
+Jeśli przed zamknięciem działalności wyprzedałeś wszystkie składniki majątku, to również informujesz urząd skarbowy, że wartość towarów objętych spisem wynosi 0 zł.
+
+Rozliczając podatek VAT, w JPK_VAT musisz uwzględnić kwoty podatku należnego i naliczonego związane ze sprzedażą i zakupami dokonanymi w ostatnim okresie rozliczeniowym oraz kwotę podatku należnego wynikającą z dokonanego spisu z natury.
+
+Jak powinieneś wypełnić ostatnią deklarację VAT (JPK_VAT z deklaracją)
+
+Przy wypełnianiu ostatniej deklaracji VAT musisz pamiętać, aby prawidłowo wyliczyć i podać kwoty podatku należnego i naliczonego za ten ostatni okres rozliczeniowy.
+
+Zamknięcia działalności można dokonać z różną datą w dowolnym dniu miesiąca kalendarzowego, dlatego ostatnia deklaracja będzie składana za okres, który jest podany w zgłoszeniu 
+VAT-Z
+.
+
+W ostatniej deklaracji mogą się znaleźć zarówno kwoty podatku VAT należnego od dokonanej sprzedaży jak również kwoty podatku VAT naliczonego od dokonanych zakupów.
+
+W ostatniej deklaracji nie zapomnij o:
+
+podaniu kwot podatku należnego od towarów i usług objętych spisem z natury,
+
+dokonaniu korekty podatku VAT naliczonego od zakupów środków trwałych i pozostałych nabyć, od których nie odliczono całego podatku VAT,
+
+odliczeniu VAT naliczonego od zakupów w miesiącu likwidacji.
+
+Jakie czynności powinieneś wykonać w celu wyrejestrowania się z VAT 
+
+Jeżeli zaprzestałeś wykonywania czynności podlegających opodatkowaniu podatkiem VAT powinieneś ten fakt zgłosić do naczelnika urzędu skarbowego, w ciągu 7 dniu od dnia zaprzestania wykonywania tych czynności.
+
+Zgłoszenie składasz na 
+formularzu 
+VAT-Z
+ , w którym musisz wypełnić odpowiednie pola:
+
+uzupełnij informacje dotyczące urzędu skarbowego;
+
+dane przedsiębiorcy - wpisz nazwisko, imię, datę urodzenia;
+
+w przypadku spółki podaj pełną nazwę firmy;
+
+adres zamieszkania;
+
+w przypadku spółki podaj adres siedziby;
+
+wskaż datę zaprzestania wykonywania czynności;
+
+podaj przyczynę zaprzestania wykonywania czynności.
+
+Zgłoszenie możesz złożyć:
+
+osobiście w urzędzie skarbowym;
+
+listownie;
+
+elektronicznie przez 
+e-Deklaracje
+;
+
+elektronicznie w 
+e-Urzędzie Skarbowym
+.
+
+Jeżeli jesteś wspólnikiem spółki cywilnej pamiętaj, że poza obowiązkiem wykreślenia wpisu w CEIDG, musisz wyrejestrować spółkę w urzędzie skarbowym poprzez złożenie formularza NIP-2.
+
+Sprzedaż towarów po likwidacji działalności
+
+Jeżeli będziesz dokonywał sprzedaży towarów w okresie 12 miesięcy od dnia zaprzestania czynności podlegających opodatkowaniu to taka sprzedaż towarów jest zwolniona z VAT, gdy dotyczy towarów objętych spisem z natury.
+
+Zwolnienie stosuje się również dla dostawy towarów dokonywanej przez osoby, które są właścicielami przedsiębiorstwa w spadku lub byli wspólnikami rozwiązanych spółek.
+
+Zwrot nadwyżki podatku naliczonego nad należnym
+
+Jeżeli w wyniku ostatecznego rozliczenia VAT wystąpi nadwyżka podatku naliczonego nad należnym, możesz wykazać ją do zwrotu w ostatnim JPK_VAT z deklaracją.
+
+Jeśli jesteś osobą fizyczną zwrot nadwyżki podatku otrzymasz na swój rachunek bankowy.
+
+Jeśli jesteś wspólnikiem spółki cywilnej lub handlowej niemającej osobowości prawnej (m.in. spółki: jawnej, partnerskiej, komandytowej, komandytowo-akcyjnej) zwrot różnicy podatku otrzymasz na podstawie złożonego JPK_VAT z deklaracją wraz z załączonymi do niego:
+
+umową spółki, aktualną na dzień rozwiązania spółki, oraz
+
+wykazem rachunków bankowych byłych wspólników w banku mającym siedzibę na terytorium kraju lub rachunków byłych wspólników w spółdzielczej kasie oszczędnościowo-kredytowej, której są członkami, na które ma być dokonany zwrot różnicy podatku.
+
+Zwrotu różnicy dokonuje się proporcjonalnie do udziału w zysku określonego w umowie spółki. W przypadku nieokreślenia w umowie udziałów w zysku, przyjmuje się, że prawa do udziału w zysku są równe.
+
+Korekta podatku naliczonego przy zakupie środków trwałych
+
+W przypadku likwidacji działalności gospodarczej możesz być obowiązany do dokonania korekty podatku VAT od nabytych uprzednio składników majątku, wobec których nie upłynął okres korekty (dotyczy to przypadków, w których dokonanie spisu z natury spowodowało zmianę przeznaczenia nabytych uprzednio składników majątku).
+
+W przypadku środków trwałych, których wartość początkowa przekracza 15 tys. zł, taka korekta jest dokonywana, jeśli licząc od roku, w którym doszło do zmiany przeznaczenia środka trwałego, nie minęło 5 lub 10 lat (dłuższy termin dotyczy nieruchomości) wówczas korekcie podlega odpowiednio 1/5 bądź 1/10 kwoty podatku VAT naliczonego za każdy rok, jaki pozostał do końca okresu korekty.
+
+Jak długo przechowywać dokumenty firmowe
+
+Ewidencje prowadzone dla celów rozliczania podatku VAT oraz wszystkie dokumenty, w szczególności faktury, związane z tym rozliczaniem przechowuj do czasu upływu okresu przedawnienia zobowiązania podatkowego.
+
+Podstawa prawna
+
+Ustawa z dnia 11 marca 2004 r. o podatku od towarów i usług
+ (ustawa o VAT)
+
+Ustawienia prywatności

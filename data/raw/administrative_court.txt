@@ -1,0 +1,212 @@
+SOURCE: https://orzeczenia.nsa.gov.pl
+TITLE: Database of administrative court judgments, including tax and business law cases
+
+Centralna Baza Orzeczeń Sądów Administracyjnych
+
+Centralna Baza Orzeczeń Sądów Administracyjnych
+
+Formularz wyszukiwania
+
+ 
+
+Szukane słowa
+
+Występujące w
+
+gdziekolwiek
+
+sentencji
+
+tezie
+
+uzasadnieniu
+
+   
+ 
+ Z odmianą słów
+
+ 
+
+Sygnatura
+
+Sąd
+
+dowolny
+
+Naczelny Sąd Administracyjny
+
+Wojewódzki Sąd Administracyjny w Białymstoku
+
+Wojewódzki Sąd Administracyjny w Bydgoszczy
+
+Wojewódzki Sąd Administracyjny w Gdańsku
+
+Wojewódzki Sąd Administracyjny w Gliwicach
+
+Wojewódzki Sąd Administracyjny w Gorzowie Wlkp.
+
+Wojewódzki Sąd Administracyjny w Kielcach
+
+Wojewódzki Sąd Administracyjny w Krakowie
+
+Wojewódzki Sąd Administracyjny w Lublinie
+
+Wojewódzki Sąd Administracyjny w Łodzi
+
+Wojewódzki Sąd Administracyjny w Olsztynie
+
+Wojewódzki Sąd Administracyjny w Opolu
+
+Wojewódzki Sąd Administracyjny w Poznaniu
+
+Wojewódzki Sąd Administracyjny w Rzeszowie
+
+Wojewódzki Sąd Administracyjny w Szczecinie
+
+Wojewódzki Sąd Administracyjny w Warszawie
+
+Wojewódzki Sąd Administracyjny we Wrocławiu
+
+NSA w Warszawie (przed reformą)
+
+NSA oz. w Białymstoku
+
+NSA oz. w Bydgoszczy
+
+NSA oz. w Gdańsku
+
+NSA oz. w Katowicach
+
+NSA oz. w Krakowie
+
+NSA oz. w Lublinie
+
+NSA oz. w Łodzi
+
+NSA oz. w Poznaniu
+
+NSA oz. w Rzeszowie
+
+NSA oz. w Szczecinie
+
+NSA oz. we Wrocławiu
+
+Rodzaj orzeczenia
+
+dowolny
+
+Wyrok
+
+Postanowienie
+
+Uchwała
+
+Symbol sprawy
+
+Data orzeczenia
+(RRRR-MM-DD)
+
+ 
+   
+do
+  
+ 
+ 
+
+Sędzia
+
+ 
+
+    
+ 
+ 
+Funkcja 
+
+dowolna
+
+przewodniczący
+
+sprawozdawca
+
+autor uzasadnienia
+
+ 
+
+Status
+
+ 
+
+Orzeczenie prawomocne
+
+ Tak
+
+ Nie
+
+Orzeczenie kończące
+
+ Tak
+
+ Nie
+
+Z tezą
+
+ Tak
+
+ Nie
+
+Z uzasadnieniem
+
+ Tak
+
+ Nie
+
+Ze zdaniem odrębnym
+
+ Tak
+
+ Nie
+
+ 
+
+Rodzaj skarżonego organu
+
+Hasła tematyczne
+
+Powołane przepisy
+
+ 
+
+Akt prawny
+
+Przepis
+
+Urzędowy zbiór orzeczeń
+
+ Opublikowane
+
+Rok, nr, poz 
+
+  
+ 
+
+Glosy
+
+ Z glosą
+
+Publ. 
+
+  
+ 
+
+Opis zasad wyszukiwania
+
+Naczelny Sąd Administracyjny informuje, iż udostępniona w Internecie baza orzeczeń służy wyłącznie celom informacyjnym oraz edukacyjnym i nie ma statusu zbioru urzędowego. Znajdujące się w niej orzeczenia są anonimizowane z uwzględnieniem celów wynikających z przepisów ustawy o ochronie danych osobowych i innych regulacji szczególnych.
+
+
+ 
+W ramach naszej witryny stosujemy pliki cookies
+ w celu świadczenia Państwu usług na najwyższym poziomie, w tym w celu ułatwienia korzystania z serwisu i w celach statystycznych. Korzystanie z witryny bez zmiany ustawień dotyczących cookies oznacza, że będą one zamieszczane w Państwa urządzeniu końcowym. W każdej chwili mogą Państwo dokonać zmiany warunków przechowywania cookies lub uzyskiwania do nich dostępu poprzez modyfikację ustawień w Państwa przeglądarce internetowej. 
+
+ Deklaracja dostępności
+
+Powered by SoftProdukt
